@@ -1,2 +1,2 @@
 # uber-code-challenge
-take-home assignment
+take-home practice
